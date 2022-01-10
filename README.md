@@ -1,7 +1,8 @@
 
 Hi there! 🇮🇹
 
-👨🏻‍💻 I Am Alessio Monesi, a FrontEnd Engineer based in Milan, passionate about IT, science and technology.
+👨🏻‍💻 I am Alessio Monesi, a FrontEnd Engineer based in Milan, passionate about IT, science and technology.
+
 I have a <a href="https://www.alessiomonesi.con">personal website</a>, and you can find me on:
 <ul>
   <li><a href="https://www.instagram.com/alemone34">Instagram</a></li>
