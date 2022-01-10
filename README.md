@@ -11,4 +11,6 @@ I have a <a href="https://www.alessiomonesi.con">personal website</a>, and you c
   <li><a href="https://www.linkedin.com/in/alessiomonesi1992">LinkedIn</a></li>
 </ul>
 
+If you want, you can also reach me by <a href="mailto:monesi.alessio@gmail.com?subject=Hello!&body=Hi There!">email</a> !
+
 Check it out! ✌🏻
