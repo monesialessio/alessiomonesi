@@ -3,7 +3,7 @@ Hi there! 🇮🇹
 
 👨🏻‍💻 I am Alessio Monesi, a FrontEnd Engineer based in Milan, passionate about IT, science and technology.
 
-I have a <a href="https://www.alessiomonesi.con">personal website</a> and you can find me on:
+I developed an application to save money that you can find <a href="https://easy-money-saver.vercel.app/">here</a>, I have a <a href="https://www.alessiomonesi.com">personal website</a> and you can find me on:
 <ul>
   <li><a href="https://www.instagram.com/alemone34">Instagram</a></li>
   <li><a href="https://www.facebook.com/alessio.monesi.7">Facebook</a></li>
